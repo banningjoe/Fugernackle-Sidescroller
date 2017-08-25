@@ -1,12 +1,16 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SwitchFromMenuToGameScene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game Assets\Heirarchy\EntityClass.cs">
     <Files>
-      <File FileName="Assets\SwitchFromMenuToGameScene.cs" Line="8" Column="39" />
+      <File FileName="Assets\Game Assets\Heirarchy\Tile\TileClass.cs" Line="7" Column="2" />
+      <File FileName="Assets\Game Assets\Heirarchy\Characters\CharacterClass.cs" Line="9" Column="18" />
+      <File FileName="Assets\Game Assets\Heirarchy\EntityClass.cs" Line="10" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="C:\Users\Joe\Desktop\repos\Fugernackle-Sidescroller\Assets\Game Assets\Heirarchy\Characters\CharacterClass.cs" line="12" column="21" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
