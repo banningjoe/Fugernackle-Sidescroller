@@ -1,0 +1,107 @@
+[33mcommit 0481003471656a9a821e114c531d3b5ccbcaabfb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 30 15:41:00 2017 -0400
+
+    still working on having the online repo reflect the local
+
+[33mcommit 73ca62844b5b0c666d04de90f2b9b8b41c8ddcf3[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Fri Aug 25 01:42:09 2017 -0400
+
+    Began building class heirarchy structure, learned that it is possible to make instances of the outermost class in a script, so I should remake the structure and rename the scripts so that I don't have the 'class' ending
+
+[33mcommit d51bb7f3cc05d4c31ff23d592f94c67d1ddce3a1[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Thu Aug 24 02:19:40 2017 -0400
+
+    Music now loops
+
+[33mcommit a7cbd0d55ada1f584be8583c9300d95a9ee3b3ab[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Thu Aug 24 01:42:30 2017 -0400
+
+    Button now switches to new scene from which the game will be played
+
+[33mcommit 6db19bd5461b55326aff601992495de155b53637[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Thu Aug 24 01:26:46 2017 -0400
+
+    Added menu with title and buttons to begin game
+
+[33mcommit a6648bc8bc31743da3e0181eb94beb1693c4e771[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Thu Aug 24 00:47:06 2017 -0400
+
+    Added Unity file structure, moved README.md to assets folder
+
+[33mcommit d9fbd72b89e8c7d4c1fedad4dfa242882ab9d2a9[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Thu Aug 24 00:29:26 2017 -0400
+
+    Removing json file, Have decided to use serialization
+
+[33mcommit 4a5127a10d72baa47aa9ed328903fee6fc5970ca[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Thu Aug 24 00:07:08 2017 -0400
+
+    Modified Strategy Doc with inheritence structure and goals, also added map file streaming json file to repo
+
+[33mcommit 9d59b86348e6e2ae133de992168f8da95de350f4[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 23:30:37 2017 -0400
+
+    final edit of README.md
+
+[33mcommit 0b27bb80a91e2ac18ce55343579c59b637a3706d[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 23:29:30 2017 -0400
+
+    attempting with <br>
+
+[33mcommit aad741b9d19327b6f8251b1a87bb8054ae74269e[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 23:27:54 2017 -0400
+
+    Attempting to add new lines to README.md
+
+[33mcommit 7f423af7dc8e0bf04a4c6011978edfea4a9f5456[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 23:26:39 2017 -0400
+
+    Updated README.md with description and link to the project development document https://docs.google.com/document/d/18CkwxOPCiyLRZQAgtEnvebH90MIlhZP17cBvi_PbrgQ/edit?usp=sharing
+
+[33mcommit 6c2d229944afee05d4aeb6db49382537b2216085[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 23:20:51 2017 -0400
+
+    Testing changes with README
+
+[33mcommit 6c32da1666483c278e7884fab2ec4c7fb8fdcfe4[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 23:18:43 2017 -0400
+
+    removed New Text Document.txt
+
+[33mcommit f3dc0e170c716bbcb5fd17b2aa95edbbd10a13e2[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 23:07:38 2017 -0400
+
+    Removing a.txt
+
+[33mcommit 84ff0a5447512c0cf38775540b4a44672666644d[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 23:05:20 2017 -0400
+
+    Adding a test file (a.txt)
+
+[33mcommit b19eaf67302e7f6a7672406cec69bf48ce11174b[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 22:58:07 2017 -0400
+
+    t
+
+[33mcommit 9c4090b2b7ca3fd1478e3c3a3b1fb06fe798f881[m
+Author: banningjoe <banningjoe@gmail.com>
+Date:   Wed Aug 23 22:05:31 2017 -0400
+
+    Initial commit
